@@ -1,5 +1,10 @@
 # Aplicación de Gestión de Tareas (Consola)
 
+[![SENATI](https://img.shields.io/badge/SENATI-Institución-00529B?style=for-the-badge)](https://www.senati.edu.pe/)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Consola](https://img.shields.io/badge/Aplicación-Consola-333333?style=for-the-badge)](#)
+[![CRUD](https://img.shields.io/badge/Operaciones-CRUD-6A1B9A?style=for-the-badge)](#)
+
 Sistema de gestión de tareas por consola desarrollado en Python, que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en memoria, control estricto de excepciones y validación de fechas límite mediante la librería estándar `datetime`.
 
 ---
@@ -34,6 +39,4 @@ python main.py
 ---
 
 ### Contexto Académico
-* **Institución:** SENATI
-* **Carrera:** Ingeniería de Software con Inteligencia Artificial
 * **Curso:** Algoritmia para el Desarrollo de Programas con Python
