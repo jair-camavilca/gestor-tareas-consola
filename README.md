@@ -1,6 +1,6 @@
 # Aplicación de Gestión de Tareas (Consola)
 
-[![SENATI](https://img.shields.io/badge/Institución-SENATI-00529B?style=for-the-badge)](https://www.senati.edu.pe/)
+[![SENATI](https://img.shields.io/badge/SENATI-00529B?style=for-the-badge)](https://www.senati.edu.pe/)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 Sistema de gestión de tareas por consola desarrollado en Python, que implementa operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en memoria, control estricto de excepciones y validación de fechas límite mediante la librería estándar `datetime`.
